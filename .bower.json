@@ -1,0 +1,33 @@
+{
+  "name": "fm-timepicker",
+  "description": "FairManager Time Picker Component",
+  "homepage": "https://github.com/DiegoSestito/fm-timepicker",
+  "authors": [
+    "Oliver Salzburg <oliver.salzburg@gmail.com>"
+  ],
+  "main": "dist/fm-timepicker.tpls.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": ">=1.2.7",
+    "bootstrap": ">=3.0.3",
+    "hamsterjs": "^1.1.0",
+    "moment": ">=2.5.0",
+    "jquery": ">=2.0.3"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules"
+  ],
+  "version": "6.0.1",
+  "_release": "6.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "6.0.1",
+    "commit": "315c2f85ade0d42ec076b7340a215835c3f7fcc0"
+  },
+  "_source": "https://github.com/DiegoSestito/fm-timepicker.git",
+  "_target": "~6.0.1",
+  "_originalSource": "fm-timepicker"
+}
